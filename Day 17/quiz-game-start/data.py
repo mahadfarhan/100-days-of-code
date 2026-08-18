@@ -1,0 +1,86 @@
+question_data = [
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In architecture, a &quot;pecklesteiner&quot; is a set of doors that overlap each other when closed, and can be locked through a single keyhole.",
+        "correct_answer": "False",
+        "incorrect_answers": ["True"],
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Slovakia is a member of European Union-",
+        "correct_answer": "True",
+        "incorrect_answers": ["False"],
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The color orange is named after the fruit.",
+        "correct_answer": "True",
+        "incorrect_answers": ["False"],
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Nutella is produced by the German company Ferrero.",
+        "correct_answer": "False",
+        "incorrect_answers": ["True"],
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "A scientific study on peanuts in bars found traces of over 100 unique specimens of urine.",
+        "correct_answer": "False",
+        "incorrect_answers": ["True"],
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Studies suggest that approximately 40% of the world population is left-handed.",
+        "correct_answer": "False",
+        "incorrect_answers": ["True"],
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "A pasodoble is a type of Italian pasta sauce.",
+        "correct_answer": "False",
+        "incorrect_answers": ["True"],
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The National Animal of Scotland is the Unicorn.",
+        "correct_answer": "True",
+        "incorrect_answers": ["False"],
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Dihydrogen Monoxide was banned due to health risks after being discovered in 1983 inside swimming pools and drinking water.",
+        "correct_answer": "False",
+        "incorrect_answers": ["True"],
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Bulls are attracted to the color red.",
+        "correct_answer": "False",
+        "incorrect_answers": ["True"],
+    },
+]
+
+import os
+
+os.system("cls")
