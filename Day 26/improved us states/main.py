@@ -1,0 +1,52 @@
+from turtle import Screen, Turtle
+import pandas
+
+screen = Screen()
+screen.bgpic("./improved us states/blank_states_img.gif")
+screen.title("U.S. States Game")
+
+df = pandas.read_csv("./improved us states/50_states.csv")
+state_list = df["state"].to_list()
+
+state_writer = Turtle()
+state_writer.pu()
+state_writer.ht()
+
+correct_answers = []
+
+while len(correct_answers) < len(state_list):
+
+    answer_state = screen.textinput(
+        title=f"{len(correct_answers)}/{len(state_list)} States Correct",
+        prompt="What's another state's name?",
+    )
+
+    if answer_state is not None:
+        answer_state = answer_state.title().strip()
+    else:
+        screen.bye()
+        break
+
+    if answer_state not in correct_answers and answer_state in state_list:
+        state_information = df[df["state"] == answer_state]
+        state_information = state_information.iloc[0]
+        x = state_information.loc["x"]
+        y = state_information.loc["y"]
+        state_writer.goto(x, y)
+        state_writer.write(answer_state)
+        correct_answers.append(answer_state)
+
+if len(correct_answers) == len(state_list):
+    state_writer.goto(0, 250)
+    state_writer.write(
+        "You guessed all the states, you win!",
+        align="center",
+        font=("Courier", 16, "bold"),
+    )
+    screen.exitonclick()
+
+else:
+    missing_states = [state for state in state_list if state not in correct_answers]
+
+    new_df = pandas.DataFrame(missing_states, columns=["States you forgot"])
+    new_df.to_csv("./improved us states/missing_states.csv", index=False)
