@@ -160,10 +160,11 @@ This day also connects directly to the original motivation for learning Python: 
 
 ## Course Attribution
 
-The project concepts, exercises, APIs, project requirements, and the pre-built Tkinter interface/assets for the Kanye Quotes project originate from **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
+The project concepts and exercises originate from **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
 
 ## Disclosure
 
-This README was written with AI assistance.
+This README was written with AI assistance. **Any code authored by me in this repository was written independently by me.**
+
 
 **For the Kanye Quotes project, the Tkinter interface and visual assets were provided by the course; I implemented the API integration and replaced the starter text with live quote data. Other Day 33 code reflects the implementation work completed during the course exercises and projects.**

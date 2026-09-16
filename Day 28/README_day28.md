@@ -128,10 +128,10 @@ This repository keeps the project as part of my learning progression rather than
 
 ## Course Attribution
 
-The project concept, UI design, project structure, instructional implementation, and challenge prompts originate from **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
+The project concepts and exercises originate from **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
 
 ## Disclosure
 
-This README was written with AI assistance.
+This README was written with AI assistance. **Any code authored by me in this repository was written independently by me.**
 
 **The code in this project is not entirely my own. A significant portion was written while following along with Dr. Angela Yu's course. Some portions were independently implemented or modified by me during challenge exercises, debugging, and experimentation.**

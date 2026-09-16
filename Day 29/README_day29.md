@@ -121,10 +121,10 @@ Some portions of the final implementation differ from the instructor's version b
 
 ## Course Attribution
 
-The Day 29 project concept, project skeleton, instructional structure, and supplied password-generator code originate from **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
+The project concepts and exercises originate from **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
 
 ## Disclosure
 
-This README was written with AI assistance.
+This README was written with AI assistance. **Any code authored by me in this repository was written independently by me.**
 
 **This project is not entirely original code. The project skeleton and some code, including the supplied password-generator base, were provided by Dr. Angela Yu as part of the course. Some challenge solutions, modifications, refactoring choices, and implementation details were completed independently by me.**

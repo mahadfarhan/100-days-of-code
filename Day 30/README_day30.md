@@ -158,6 +158,6 @@ The course also includes adding exception handling to the earlier NATO alphabet 
 
 ## Disclosure
 
-This README was written with AI assistance.
+This README was written with AI assistance. **Any code authored by me in this repository was written independently by me.**
 
 **This project builds on guided course code and project structure from Dr. Angela Yu's course. Some challenge solutions, modifications, error handling, and implementation details were completed independently by me.**

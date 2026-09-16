@@ -212,10 +212,8 @@ The `.env` file should remain local and be excluded from version control.
 
 ## Course Attribution
 
-The project concept, requirements, APIs, and learning objectives originate from **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
+The project concepts and exercises originate from **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
 
 ## Disclosure
 
-This README was written with AI assistance.
-
-**All code in this project was authored by me. No AI was used to write the code.**
+This README was written with AI assistance. **Any code authored by me in this repository was written independently by me.**

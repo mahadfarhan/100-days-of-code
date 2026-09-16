@@ -177,10 +177,10 @@ The result is a much more complete application than the original Day 17 command-
 
 ## Course Attribution
 
-The original project concept, Day 17 quiz requirements, Day 34 API/GUI/OOP learning objectives, and course-provided visual assets originate from **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
+The project concepts and exercises originate from **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
 
 ## Disclosure
 
-This README was written with AI assistance.
+This README was written with AI assistance. **Any code authored by me in this repository was written independently by me.**
 
 **The original Day 17 quiz implementation was written by me. For Day 34, the API integration, GUI conversion, button behavior, visual feedback, quiz state integration, modular structure, and other updates were independently implemented by me based on the course requirements.**

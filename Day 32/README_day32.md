@@ -126,10 +126,10 @@ Beyond the base project requirements, a few refinements were made independently:
 
 ## Course Attribution
 
-The project specifications, learning objectives, and starter datasets (`birthdays.csv`, `quotes.txt`, letter templates) originate from **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
+The project concepts and exercises originate from **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
 
 ## Disclosure
 
-This README was written with AI assistance.
+This README was written with AI assistance. **Any code authored by me in this repository was written independently by me.**
 
 **All code in this repository was written independently by me.**

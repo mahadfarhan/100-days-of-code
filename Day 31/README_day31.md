@@ -104,10 +104,10 @@ The project was completed by implementing the provided requirements independentl
 
 ## Course Attribution
 
-The project specification, learning objectives, vocabulary dataset, image assets, and design resources originate from **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
+The project concepts and exercises originate from **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
 
 ## Disclosure
 
-This README was written with AI assistance.
+This README was written with AI assistance. **Any code authored by me in this repository was written independently by me.**
 
 **The assets and data files used in this project were provided by the course. The application logic, GUI implementation, data handling, and functionality were independently implemented by me based on the provided project requirements.**

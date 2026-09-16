@@ -199,8 +199,8 @@ The final code keeps the different API operations visible as commented examples,
 
 ## Course Attribution
 
-The project concept, Pixela API exercises, requirements, and learning objectives originate from **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
+The project concepts and exercises originate from **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
 
 ## Disclosure
 
-This README was written with AI assistance. **The code attribution and implementation details reflect the work completed for the course project.**
+This README was written with AI assistance. **Any code authored by me in this repository was written independently by me.**
